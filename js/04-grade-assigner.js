@@ -14,7 +14,7 @@ if (score >= 1 && score <= 100) {
             console.log("You received an D");
             break;
         default:
-            console.log("You received an F")
+            console.log("You received an F");
     } 
 }  else {
     alert("Only numbers between 1 and 100 are accepted.")
